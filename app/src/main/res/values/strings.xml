@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AntiTheft</string>
+    <string name="notif_channel_name">Protection</string>
+    <string name="notif_channel_desc">Foreground security monitoring</string>
+</resources>
